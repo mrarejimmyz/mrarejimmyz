@@ -25,4 +25,4 @@ I build AI agents and backend systems by day, and DeFi on mainnet by night.
 
 ## 📫 Contact
 
-[LinkedIn](https://linkedin.com/in/ashish-regmi) · wanemregmi@gmail.com
+[LinkedIn](https://linkedin.com/in/ashish-regmi) · ashish.regmi@zkward.com
